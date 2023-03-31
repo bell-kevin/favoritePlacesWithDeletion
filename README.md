@@ -6,6 +6,10 @@ Modify the project so that you can delete a favorite place. Begin with at least 
 
 Submission: Zip together the root folder and the 2 screenshots, and submit the single zipped folder.
 
+![p](https://github.com/bell-kevin/favoritePlacesWithDeletion/blob/main/screenshots/deletion.PNG)
+
+![p](https://github.com/bell-kevin/favoritePlacesWithDeletion/blob/main/screenshots/deletion2.PNG)
+
 ## How to:
 
 Create one app. for both Android and iOS (Apple) using one computer alorithm for both apps. You'll need Visual Studio Code and Android Studio to get started:
