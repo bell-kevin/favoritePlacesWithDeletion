@@ -66,9 +66,3 @@ without our permission.  We do not consent to GitHub's use of this project's
 code in Copilot.
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
-
-<p align="right ">
-  <a href= "#readme-top" ><img src= https://static.thenounproject.com/png/691751-200.png" alt="Logo "width="auto" height="30 "> < ATAG1>
-  <br>
-  Top
-</p>
