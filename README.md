@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Favorite Places with Deletion
 
 In the Udemy videos, you created an app that adds your favorite places, stored in a database in device storage with SQLite. What if one of those places falls out of favor? 
