@@ -5,11 +5,12 @@ import {
   PermissionStatus,
 } from 'expo-image-picker';
 import { useState } from 'react';
+import * as ImagePicker from 'expo-image-picker';
 
 import { Colors } from '../../constants/colors';
 import OutlinedButton from '../UI/OutlinedButton';
 
-function ImagePicker({ onTakeImage }) {
+function ImagePickerComponent({ onTakeImage }) {
   const [pickedImage, setPickedImage] = useState();
 
   const [cameraPermissionInformation, requestPermission] =
@@ -46,8 +47,8 @@ function ImagePicker({ onTakeImage }) {
       quality: 0.5,
     });
 
-    setPickedImage(image.uri);
-    onTakeImage(image.uri);
+    setPickedImage(image.assets[0].uri);
+    onTakeImage(image.assets[0].uri);
   }
 
   let imagePreview = <Text>No image taken yet.</Text>;
@@ -66,7 +67,7 @@ function ImagePicker({ onTakeImage }) {
   );
 }
 
-export default ImagePicker;
+export default ImagePickerComponent;
 
 const styles = StyleSheet.create({
   imagePreview: {
