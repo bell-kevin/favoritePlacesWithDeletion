@@ -19,7 +19,7 @@
     "expo-sqlite": "^15.1.4",
     "expo-status-bar": "~2.0.1",
     "react": "19.1.0",
-    "react-native": "0.79.0",
+    "react-native": "0.79.1",
     "react-native-maps": "1.21.0",
     "react-native-web": "~0.20.0",
     "react-dom": "19.1.0",
