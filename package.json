@@ -20,7 +20,7 @@
     "expo-status-bar": "~2.2.3",
     "react": "19.1.0",
     "react-native": "0.79.2",
-    "react-native-maps": "1.23.7",
+    "react-native-maps": "1.23.8",
     "react-native-web": "~0.20.0",
     "react-dom": "19.1.0",
     "@expo/webpack-config": "^19.0.1"
