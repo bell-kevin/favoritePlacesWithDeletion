@@ -22,7 +22,7 @@
     "react-native": "0.85.3",
     "react-native-maps": "1.27.2",
     "react-native-web": "~0.21.2",
-    "react-dom": "19.2.6",
+    "react-dom": "19.2.7",
     "@expo/webpack-config": "^19.0.1"
   },
   "devDependencies": {
